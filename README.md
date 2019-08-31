@@ -10,3 +10,5 @@ https://github.com/emard/Minimig_ECS
 You will need to have your original kick.rom on SDCARD!
 
 We do not provide any files for playing games!
+
+[Amiga on ULX3S](https://www.youtube.com/watch?v=q0nysMydf4I&t=1s)
